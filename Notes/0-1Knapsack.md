@@ -5,16 +5,23 @@ In the knapsack problem, we have a set of items. Each item has a weight and a wo
 **In the 0/1 knapsack problem, each item must either be chosen or left behind. We cannot take more than one instance for each item. You cannot take fractional quantity as well. Than is why it is 0/1: you either take the whole item or you don't include it at all.**
 
 Let’s take Merry’s example, who wants to carry some fruits in the knapsack to get maximum profit. Here are the weights and profits of the fruits:
+
 **Items:** { Apple, Orange, Banana, Melon }
+
 **Weights:** { 2, 3, 1, 4 }
+
 **Profits:** { 4, 5, 3, 7 }
+
 **Knapsack capacity:** 5
 
 Let’s try to put different combinations of fruits in the knapsack, such that their total weight is not more than 5:
 
 Apple + Orange (total weight 5) => 9 profit
+
 Apple + Banana (total weight 3) => 7 profit
+
 Orange + Banana (total weight 4) => 8 profit
+
 Banana + Melon (total weight 5) => 10 profit
 
 This shows that Banana + Melon is the best combination, as it gives us the maximum profit and the total weight does not exceed the capacity.
@@ -55,9 +62,9 @@ Since we have two changing values (`capacity` and `currentIndex`) in our recursi
 
 [Code with memoiztion](../0-1-Knapsack/knapsack-recursive-memoization.js)
 
-What is the time and space complexity of the above solution? Since our memoization array `dp[profits.length][capacity+1]` stores the results for all the subproblems, we can conclude that we will not have more than N*C subproblems (where N is the number of items and C is the knapsack capacity). This means that our time complexity will be O(N*C).
+What is the time and space complexity of the above solution? Since our memoization array `dp[profits.length][capacity+1]` stores the results for all the subproblems, we can conclude that we will not have more than N\*C subproblems (where N is the number of items and C is the knapsack capacity). This means that our time complexity will be O(N\*C).
 
-The above algorithm uses O(N*C) space for the memoization array. Other than that, we will use O(N) space for the recursion call stack. So, the total space complexity will be O(N*C + N) which is equivalent to O(N \* C)
+The above algorithm uses O(N\*C) space for the memoization array. Other than that, we will use O(N) space for the recursion call stack. So, the total space complexity will be O(N\*C + N) which is equivalent to O(N \* C)
 
 ### Bottom-Up Dynamic Programming
 
