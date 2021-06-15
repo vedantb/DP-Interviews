@@ -8,3 +8,5 @@
    (Also includes Subset Sum - Very Similar)
 
 3. [Count Subset Sum](./Notes/count-subset-sum.md)
+
+4. [Minimum Subset Sum Difference](./Notes/Minimum-Subset-Sum-Difference.md)
