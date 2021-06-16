@@ -16,3 +16,7 @@
 ## Unbounded Knapsack
 
 1. [Core Concept](./Notes/Unbounded-Knapsack.md)
+
+2. [Rod Cutting](./Notes/Rod-Cutting.md)
+
+3. [Coin Change]
