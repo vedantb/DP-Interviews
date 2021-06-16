@@ -12,3 +12,7 @@
 4. [Minimum Subset Sum Difference](./Notes/Minimum-Subset-Sum-Difference.md)
 
 5. [Target Sum](./Notes/Target-Sum.md)
+
+## Unbounded Knapsack
+
+1. [Core Concept](./Notes/Unbounded-Knapsack.md)
