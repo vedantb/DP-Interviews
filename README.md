@@ -22,3 +22,5 @@
 3. [Coin Change](./Notes/Coin-Change.md)
 
 4. [Minimum Coin Change](./Notes/Minimum-Coin-Change.md)
+
+5. [Maximum Ribbon Cut](./Notes/Max-Ribbon-Cut.md)
