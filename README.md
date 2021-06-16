@@ -20,3 +20,5 @@
 2. [Rod Cutting](./Notes/Rod-Cutting.md)
 
 3. [Coin Change](./Notes/Coin-Change.md)
+
+4. [Minimum Coin Change](./Notes/Minimum-Coin-Change.md)
