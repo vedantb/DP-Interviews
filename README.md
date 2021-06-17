@@ -28,3 +28,17 @@
 6. [Natarajan's Birthday Bombs](./Notes/Natarajans-Birthday-Bombs.md)
 
    https://www.interviewbit.com/problems/tushars-birthday-bombs/
+
+## Buy and Sell Stocks (State Machines Concept)
+
+1. [Buy and Sell Stock with at most 1 Transaction](./Buy-Sell-Stocks/at-most-1-transaction.js)
+
+2. [Buy and Sell Stocks with unlimited Transactions](./Buy-Sell-Stocks/buy-sell-unlimited-transactions.js)
+
+3. [Buy and Sell Stocks with a Transaction Fee](./Buy-Sell-Stocks/buy-sell-transaction-fee.js)
+
+4. [Buy and Sell Stocks with a cooldown period](./Buy-Sell-Stocks/buy-sell-with-cooldown.js)
+
+5. [Buy and Sell Stocks with at most 2 transactions](./Buy-Sell-Stocks/buy-sell-at-most-2-transactions.js)
+
+6. [Buy and Sell Stock with at most k transactions](./Buy-Sell-Stocks/buy-sell-at-most-k-transactions.js)
