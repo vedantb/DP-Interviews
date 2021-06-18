@@ -15,3 +15,15 @@ Lets `nums[]` be the given array:
 - Create `longestDecreasingSubsequence[]` array based off of `nums[i]` from right to left where `longestDecreasingSubsequence[i]` gives length of longest decreasing subsequence starting with `nums[i]`.
 
 - For all `i` from `0` to `(n - 1)`, where n = length of nums[] array, return `max(longestIncreasingSubsequence[i] + longestDecreasingSubsequence[i] - 1`
+
+The '-1' is because when we find the longest increasing and decreasing subsequences, the eventual peak of the mountain will be shared by both which needs to be subtracted.
+
+[Code](../Longest-Bitonic-Sequence/longest-bitonic-sequence.js)
+
+### Alternative Problem
+
+https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/
+
+This problem is the same as calculating the bitonic sequence with an added condition that a strictly increasing or strictly decreasing sequence is not considered valid. (It has to be increasing and then decreasing)
+
+[Code](../Longest-Bitonic-Sequence/minimum-number-of-removals-to-make-mountain-array.js)

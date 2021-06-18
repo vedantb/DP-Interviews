@@ -34,3 +34,7 @@ As in all LIS problems, the logic of how to sort the input must be determined ca
 
 The player with the highest score in the same age group has the chance of including most number of younger players as well as all the eligible same age players. But if we keep same age player with lower score score after a same age player with higher score in the sorted array then even if the same age player with lower score can include all
 the eligible same age players but will miss out on including many younger players with higher score.
+
+**Code:**
+
+[Code](../Best-Team-No-Conflict/best-team-no-conflict.js)

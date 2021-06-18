@@ -28,3 +28,9 @@ So this problem fits the pattern of problems easily solvable by Longest Increasi
 In fact we see that once we sort the given string array based string length, this problem translates to finding longest increasing subsequence based on given predecessor condition.
 
 Next big challenge is to figure out a sleek way of determining if a string a is predecessor of string b (length of string b > length of string a). Notice that except one character in string b, all other characters in string b would be present in string a and they would be in same order as that in string b. So basically, if we compute the longest common Subsequence of string a and string b, it will be equal to length of string a.
+
+[Code](../Longest-String-Chain/longest-string-chain.js)
+
+There's another clever way to get the predecessor using a map
+
+[Code using a map](Longest-String-Chain/longest-string-chain-2.js)

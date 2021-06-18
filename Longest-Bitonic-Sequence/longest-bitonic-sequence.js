@@ -32,10 +32,13 @@ let getLongestBitonicSubsequence = function (nums) {
       }
     }
   }
-  console.log(longestIncreasingSubsequence, longestDecreasingSubsequence);
 
   let max = 1;
+
+  /* Return the maximum value of longestIncreasingSubsequence[i] + longestDecreasingSubsequence[i] - 1*/
   for (let i = 0; i < len; i++) {
+    // both longestIncreasingSubsequence[i] and longestDecreasingSubsequence[i] includes nums[i]
+    // but since we only want to include it once, we subtract 1
     max = Math.max(max, longestIncreasingSubsequence[i] + longestDecreasingSubsequence[i] - 1);
   }
   return max;

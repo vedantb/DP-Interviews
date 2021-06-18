@@ -52,3 +52,11 @@
 3. [Russian Doll](./Notes/Russian-Doll.md)
 
 4. [Largest Divisible Subset](./Notes/Largest-Divisible-Subset.md)
+
+5. [Longest String Chain](./Notes/Longest-String-Chain.md)
+
+6. [Best Team With No Conflict](./Notes/Best-Team-With-No-Conflict.md)
+
+7. [Longest Bitonic Sequence](./Notes/Longest-Bitonic-Sequence.md)
+
+   [Minimum Number of Removals To Make Mountain Array](./Longest-Bitonic-Sequence/minimum-number-of-removals-to-make-mountain-array.js) (Very Similar to Bitonic Sequence)
