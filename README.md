@@ -42,3 +42,13 @@
 5. [Buy and Sell Stocks with at most 2 transactions](./Buy-Sell-Stocks/buy-sell-at-most-2-transactions.js)
 
 6. [Buy and Sell Stock with at most k transactions](./Buy-Sell-Stocks/buy-sell-at-most-k-transactions.js)
+
+## Longest Increasing Subsequence
+
+1. [Core Concept](./Notes/Longest-Increasing-Subsequence.md)
+
+2. [Box Stacking](./Box-Stacking/boxStacking.js)
+
+3. [Russian Doll](./Notes/Russian-Doll.md)
+
+4. [Largest Divisible Subset](./Notes/Largest-Divisible-Subset.md)
