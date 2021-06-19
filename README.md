@@ -75,3 +75,9 @@
 
 5. [Minimum Palindrome Partioning](./Min-Palindrome-Partitioning/min-palindrome-partitioning-optimized.js)
    [From Leetcode solutions](./Min-Palindrome-Partitioning/min-palindrome-partitioning-smart.js)
+
+6. [Burst Balloons](./Burst-Balloons/burst-balloons.js)
+
+7. [Merging Stones](./Burst-Balloons/merge-stones.js) (Similar to birst balloons)
+
+## Kadanes
