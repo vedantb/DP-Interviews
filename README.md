@@ -60,3 +60,18 @@
 7. [Longest Bitonic Sequence](./Notes/Longest-Bitonic-Sequence.md)
 
    [Minimum Number of Removals To Make Mountain Array](./Longest-Bitonic-Sequence/minimum-number-of-removals-to-make-mountain-array.js) (Very Similar to Bitonic Sequence)
+
+## All Possible Cuts in All Possible Intervals For Choosing Last Operation
+
+1. [Unique BST](./Unique-BST/unique-bst.js)
+   [Unique BST - Better Solution](./Unique-BST/unique-bst-2.js)
+
+2. [Tree With Minimum Cost Leaf Nodes](./Tree-With-Min-Cost-Leaf-Nodes/min-cost-leaf-nodes-stack.js)
+   Explained Here - https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/discuss/339959/One-Pass-O(N)-Time-and-Space
+
+3. [Matrix Chain Multiplication](./Matrix-Chain-Multiplication/matrix-chain-multiplication.js)
+
+4. [Optimal BST](./Optimal-BST/optimal-bst.js)
+
+5. [Minimum Palindrome Partioning](./Min-Palindrome-Partitioning/min-palindrome-partitioning-optimized.js)
+   [From Leetcode solutions](./Min-Palindrome-Partitioning/min-palindrome-partitioning-smart.js)
