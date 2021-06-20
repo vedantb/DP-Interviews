@@ -100,6 +100,6 @@ Note: Some of these problems can ask for the length/count of the longest/shortes
 
 ## Advanced String DP Problems
 
-1. [Regular Expression Matching](./Notes/Regular-Expression-Matching.md)
+1. [Regular Expression Matching](notes/Regular-Expression-Matching.md)
 
-2. [Wildcard Matching](./Notes/Wildcard-Matching.md)
+2. [Wildcard Matching](notes/Wildcard-Matching.md)
