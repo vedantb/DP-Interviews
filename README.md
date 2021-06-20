@@ -81,3 +81,27 @@
 7. [Merging Stones](./Burst-Balloons/merge-stones.js) (Similar to birst balloons)
 
 ## Kadanes
+
+Explanation - https://www.youtube.com/watch?v=86CQq3pKSUw
+
+1. [Maximum Sum Subarray](./Kadanes/maxSubarrayKadane.js)
+
+2. [Maximum Product Subarray](./Kadanes/maxProductSubarray-elegant.js)
+
+3. The best time to buy and sell 1 stock can also be seen as an application of Kadane's algorithm
+   [Best Time to Buy and Sell Stock](./Buy-Sell-Stocks/at-most-1-transaction.js)
+
+## 2-String Problems
+
+Note: Some of these problems can ask for the length/count of the longest/shortest common substring/sequence
+or it can also ask for the substring/subsequence produced.
+
+1. [Longest Common Substring](./Notes/Longest-Common-Substring.md)
+
+2. [Longest Common Subsequence](./Notes/Longest-Common-Subsequence.md)
+
+3. [Shortest Common Supersequence](./Notes/Shortest-Common-Supersequence.md)
+
+4. [String Interleaving](./String-Interleaving/string-interleaving-optimized.js)
+
+5. [Edit Distance](./Notes/Edit-Distance.md)
