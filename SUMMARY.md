@@ -32,3 +32,5 @@
   - [Longest Palindromic Subsequence](notes/longest-palindromic-subsequence.md)
   - [All Possible Cuts In All Possible Intervals For Choosing Last Operation](notes/all-possible-cuts-all-intervals.md)
   - [Minimum Deletions & Insertions To Transform a String into another](notes/minimum-insertions-deletions-transform.md)
+  - [Regular Expression Matching](notes/Regular-Expression-Matching.md)
+  - [Wildcard Matching](notes/Wildcard-Matching.md)
