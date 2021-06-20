@@ -119,3 +119,15 @@ or it can also ask for the substring/subsequence produced.
 7. [Subsequence Pattern Matching](./Notes/Subsequence-Pattern-Matching.md)
 
 8. [Longest Repeating Subsequence](./Notes/Longest-Repeating-Sequence.md)
+
+## 1-String Problems
+
+1. [Longest Palindromic Subsequence](./Notes/Longest-Palindromic-Subsequence.md)
+
+2. [Longest Palindromic Substring](./Notes/Longest-Palindromic-Substring.md)
+
+3. [Minimum Palindrome Partioning](./Min-Palindrome-Partitioning/min-palindrome-partitioning-optimized.js)
+
+   [From Leetcode solutions](./Min-Palindrome-Partitioning/min-palindrome-partitioning-smart.js)
+
+   (Already posted as part of All Possible Cuts in All Possible Intervals For Choosing Last Operation)
