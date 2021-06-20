@@ -137,3 +137,9 @@ or it can also ask for the substring/subsequence produced.
    You can always just find the Longest Palindromic subsequence and use that. `str.length - LPS.length` will also give you the same answer.
 
    Similarly, you can also use the Longest Common Subsequence technique. You need to do an LCS on `str` and `str.reverse()` and then `str.length - LCS(str, str.reverse())` will give you the same answer.
+
+## Advanced String DP Problems
+
+1. [Regular Expression Matching](./Notes/Regular-Expression-Matching.md)
+
+2. [Wildcard Matching](./Notes/Wildcard-Matching.md)
