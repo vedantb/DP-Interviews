@@ -131,3 +131,9 @@ or it can also ask for the substring/subsequence produced.
    [From Leetcode solutions](./Min-Palindrome-Partitioning/min-palindrome-partitioning-smart.js)
 
    (Already posted as part of All Possible Cuts in All Possible Intervals For Choosing Last Operation)
+
+4. [Minimum Insertions To Form a Palindrome](./Minimum-Insertion-To-Form-Palindrome/min-insertion-form-palindrome.js)
+
+   You can always just find the Longest Palindromic subsequence and use that. `str.length - LPS.length` will also give you the same answer.
+
+   Similarly, you can also use the Longest Common Subsequence technique. You need to do an LCS on `str` and `str.reverse()` and then `str.length - LCS(str, str.reverse())` will give you the same answer.
