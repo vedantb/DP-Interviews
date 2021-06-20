@@ -67,6 +67,7 @@
    [Unique BST - Better Solution](./Unique-BST/unique-bst-2.js)
 
 2. [Tree With Minimum Cost Leaf Nodes](./Tree-With-Min-Cost-Leaf-Nodes/min-cost-leaf-nodes-stack.js)
+
    Explained Here - https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/discuss/339959/One-Pass-O(N)-Time-and-Space
 
 3. [Matrix Chain Multiplication](./Matrix-Chain-Multiplication/matrix-chain-multiplication.js)
@@ -78,7 +79,7 @@
 
 6. [Burst Balloons](./Burst-Balloons/burst-balloons.js)
 
-7. [Merging Stones](./Burst-Balloons/merge-stones.js) (Similar to birst balloons)
+7. [Merging Stones](./Burst-Balloons/merge-stones.js) (Similar to burst balloons)
 
 ## Kadanes
 
@@ -88,8 +89,9 @@ Explanation - https://www.youtube.com/watch?v=86CQq3pKSUw
 
 2. [Maximum Product Subarray](./Kadanes/maxProductSubarray-elegant.js)
 
-3. The best time to buy and sell 1 stock can also be seen as an application of Kadane's algorithm
-   [Best Time to Buy and Sell Stock](./Buy-Sell-Stocks/at-most-1-transaction.js)
+The best time to buy and sell 1 stock can also be seen as an application of Kadane's algorithm
+
+3.  [Best Time to Buy and Sell Stock](./Buy-Sell-Stocks/at-most-1-transaction.js)
 
 ## 2-String Problems
 
