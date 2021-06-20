@@ -47,17 +47,23 @@
 
 1. [Core Concept](./Notes/Longest-Increasing-Subsequence.md)
 
-2. [Box Stacking](./Box-Stacking/boxStacking.js)
+2. [Maximum Sum Increasing Subsequence](./Notes/Maximum-Sum-Increasing-Subsequence.md)
 
-3. [Russian Doll](./Notes/Russian-Doll.md)
+3. Minimum Deletions to make a Sequence Sorted
 
-4. [Largest Divisible Subset](./Notes/Largest-Divisible-Subset.md)
+   Classic LIS problem. Find the LIS of the sequence and the `deletions = arr.length - LIS.length`
 
-5. [Longest String Chain](./Notes/Longest-String-Chain.md)
+4. [Box Stacking](./Box-Stacking/boxStacking.js)
 
-6. [Best Team With No Conflict](./Notes/Best-Team-With-No-Conflict.md)
+5. [Russian Doll](./Notes/Russian-Doll.md)
 
-7. [Longest Bitonic Sequence](./Notes/Longest-Bitonic-Sequence.md)
+6. [Largest Divisible Subset](./Notes/Largest-Divisible-Subset.md)
+
+7. [Longest String Chain](./Notes/Longest-String-Chain.md)
+
+8. [Best Team With No Conflict](./Notes/Best-Team-With-No-Conflict.md)
+
+9. [Longest Bitonic Sequence](./Notes/Longest-Bitonic-Sequence.md)
 
    [Minimum Number of Removals To Make Mountain Array](./Longest-Bitonic-Sequence/minimum-number-of-removals-to-make-mountain-array.js) (Very Similar to Bitonic Sequence)
 
@@ -104,6 +110,12 @@ or it can also ask for the substring/subsequence produced.
 
 3. [Shortest Common Supersequence](./Notes/Shortest-Common-Supersequence.md)
 
-4. [String Interleaving](./String-Interleaving/string-interleaving-optimized.js)
+4. [Minimum Deletions & Insertions To Transform a String into another](./Notes/Minimum-insertions-deletions-transform.md)
 
-5. [Edit Distance](./Notes/Edit-Distance.md)
+5. [String Interleaving](./String-Interleaving/string-interleaving-optimized.js)
+
+6. [Edit Distance](./Notes/Edit-Distance.md)
+
+7. [Subsequence Pattern Matching](./Notes/Subsequence-Pattern-Matching.md)
+
+8. [Longest Repeating Subsequence](./Notes/Longest-Repeating-Sequence.md)
