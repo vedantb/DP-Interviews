@@ -127,3 +127,9 @@ Note: Some of these problems can ask for the length/count of the longest/shortes
 1. [House Robber](../Other-Problems/house-robber.js)
 
    This fits into the knapsack category. You either choose a house to rob or you skip the house.
+
+2. [Dungeon Game](../Other-Problems/dungeon-game.js)
+
+   [Dungeon Game Space Optimized - 1D DP table](../Other-Problems/dungeon-game-space-optimized.js)
+
+   [Dungeon - Modifying the Input grid directly](../Other-Problems/dungeon-game-modify-input.js)
