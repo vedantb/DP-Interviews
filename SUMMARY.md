@@ -34,3 +34,4 @@
   - [Minimum Deletions & Insertions To Transform a String into another](notes/minimum-insertions-deletions-transform.md)
   - [Regular Expression Matching](notes/Regular-Expression-Matching.md)
   - [Wildcard Matching](notes/Wildcard-Matching.md)
+  - [Optimal Paths To Target](notes/Optimal-Path-To-Target.md)

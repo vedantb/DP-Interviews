@@ -106,6 +106,6 @@ Note: Some of these problems can ask for the length/count of the longest/shortes
 
 ## Optimal Path To Target
 
-1. [Optimal Path To Target](./Notes/Optimal-Path-To-Target.md)
+1. [Optimal Path To Target](notes/Optimal-Path-To-Target.md)
 
    Includes the Minimum Cost for Tickets Problem
