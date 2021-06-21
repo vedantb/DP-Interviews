@@ -109,3 +109,21 @@ Note: Some of these problems can ask for the length/count of the longest/shortes
 1. [Optimal Path To Target](notes/Optimal-Path-To-Target.md)
 
    Includes the Minimum Cost for Tickets Problem
+
+## Unique Paths
+
+1. [Unique Paths 1](../Unique-Paths/unique-paths1.js)
+
+   [Unique Paths 1 - Space Optimized](../Unique-Paths/unique-paths1-optimized.js)
+
+2. [Unique Paths 2](../Unique-Paths/Unique-paths-2.js)
+
+   [Unique Paths 2 - Space Optimized](../Unique-Paths/unique-paths-2-optimized.js)
+
+3. [Minimum Path Sum](../Other-Problems/min-path-sum.js)
+
+## Other Problems
+
+1. [House Robber](../Other-Problems/house-robber.js)
+
+   This fits into the knapsack category. You either choose a house to rob or you skip the house.
