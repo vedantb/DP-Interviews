@@ -112,32 +112,43 @@ Note: Some of these problems can ask for the length/count of the longest/shortes
 
 ## Unique Paths
 
-1. [Unique Paths 1](../Unique-Paths/unique-paths1.js)
+1. [Unique Paths 1](./Unique-Paths/unique-paths1.js)
 
-   [Unique Paths 1 - Space Optimized](../Unique-Paths/unique-paths1-optimized.js)
+   [Unique Paths 1 - Space Optimized](./Unique-Paths/unique-paths1-optimized.js)
 
-2. [Unique Paths 2](../Unique-Paths/Unique-paths-2.js)
+2. [Unique Paths 2](./Unique-Paths/Unique-paths-2.js)
 
-   [Unique Paths 2 - Space Optimized](../Unique-Paths/unique-paths-2-optimized.js)
+   [Unique Paths 2 - Space Optimized](./Unique-Paths/unique-paths-2-optimized.js)
 
-3. [Minimum Path Sum](../Other-Problems/min-path-sum.js)
+3. [Minimum Path Sum](./Other-Problems/min-path-sum.js)
 
 ## Other Problems
 
-1. [House Robber](../Other-Problems/house-robber.js)
+1. [House Robber](./Other-Problems/house-robber.js)
 
    This fits into the knapsack category. You either choose a house to rob or you skip the house.
 
-2. [Dungeon Game](../Other-Problems/dungeon-game.js)
+2. [Dungeon Game](./Other-Problems/dungeon-game.js)
 
-   [Dungeon Game Space Optimized - 1D DP table](../Other-Problems/dungeon-game-space-optimized.js)
+   [Dungeon Game Space Optimized - 1D DP table](./Other-Problems/dungeon-game-space-optimized.js)
 
-   [Dungeon - Modifying the Input grid directly](../Other-Problems/dungeon-game-modify-input.js)
+   [Dungeon - Modifying the Input grid directly](./Other-Problems/dungeon-game-modify-input.js)
 
-3. [Cherry Pickup](../Other-Problems/cherry-pickup.js) (This has comments explaining the thought process)
+3. [Cherry Pickup](./Other-Problems/cherry-pickup.js) (This has comments explaining the thought process)
 
-   [Cherry Pickup - Space Optimized](../Other-Problems/cherry-pickup-dp.js)
+   [Cherry Pickup - Space Optimized](./Other-Problems/cherry-pickup-dp.js)
 
-4. [Cherry Pickup 2](../Other-Problems/cherry-pickup-2.js)
+4. [Cherry Pickup 2](./Other-Problems/cherry-pickup-2.js)
 
-   [Cherry Pickup 2 - Space Optimized](../Other-Problems/cherry-pickup-2-optimized.js)
+   [Cherry Pickup 2 - Space Optimized](./Other-Problems/cherry-pickup-2-optimized.js)
+
+## Other Backtracking Problems
+
+Practicing Backtracking problems also helps provide a good foundation and thought process for DP based problems.
+These are some classic backtracking problems.
+
+1. [Letter Case Permutations](./Backtracking/letter-permutations.js)
+
+2. [All Path From Source To Target](./Backtracking/all-paths-source-to-destination.js)
+
+3. [Word Search](./Backtracking/word-search.js)
