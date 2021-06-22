@@ -12,6 +12,7 @@ const findMinOperations = function (s1, s2) {
       if (s1[i1 - 1] === s2[i2 - 1]) {
         dp[i1][i2] = dp[i1 - 1][i2 - 1];
       } else {
+        // 1 + the min of either inserting, removing or replacing a character
         dp[i1][i2] = 1 + Math.min(dp[i1 - 1][i2], dp[i1][i2 - 1], dp[i1 - 1][i2 - 1]);
       }
     }

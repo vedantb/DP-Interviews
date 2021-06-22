@@ -133,3 +133,11 @@ Note: Some of these problems can ask for the length/count of the longest/shortes
    [Dungeon Game Space Optimized - 1D DP table](../Other-Problems/dungeon-game-space-optimized.js)
 
    [Dungeon - Modifying the Input grid directly](../Other-Problems/dungeon-game-modify-input.js)
+
+3. [Cherry Pickup](../Other-Problems/cherry-pickup.js) (This has comments explaining the thought process)
+
+   [Cherry Pickup - Space Optimized](../Other-Problems/cherry-pickup-dp.js)
+
+4. [Cherry Pickup 2](../Other-Problems/cherry-pickup-2.js)
+
+   [Cherry Pickup 2 - Space Optimized](../Other-Problems/cherry-pickup-2-optimized.js)
