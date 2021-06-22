@@ -152,3 +152,11 @@ These are some classic backtracking problems.
 2. [All Path From Source To Target](./Backtracking/all-paths-source-to-destination.js)
 
 3. [Word Search](./Backtracking/word-search.js)
+
+4. [Generate Parentheses](./Backtracking/generate-parentheses.js)
+
+5. [T-9 Keyboard](./Backtracking/T9-Keyboard.js)
+
+6. [Palindrome Partitioning](./Backtracking/palindrome-partitioning.js)
+
+7. [Sudoku Solver](./Backtracking/sudoku-solver.js)
