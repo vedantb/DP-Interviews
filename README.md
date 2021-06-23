@@ -160,3 +160,17 @@ These are some classic backtracking problems.
 6. [Palindrome Partitioning](./Backtracking/palindrome-partitioning.js)
 
 7. [Sudoku Solver](./Backtracking/sudoku-solver.js)
+
+The difference between permutations 1 and 2 is that 1 has unique numbers in the input array and 2 has duplicate numbers possible
+
+8. [Permutations 1](./Backtracking/permutations-1.js)
+
+9. [Permutations 2](./Backtracking/permutations-2.js)
+
+10. [N-Queens](./Backtracking/N-Queens.js)
+
+11. [N-Queens 2](./Backtracking/N-Queens-2.js)
+
+12. [Word-Squares - Using Hashmap](./Backtracking/word-squares-hashmap.js)
+
+    [Word-Squares - Using Tries](./Backtracking/word-squares-trie.js)
