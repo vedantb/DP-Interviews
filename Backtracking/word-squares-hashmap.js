@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/word-squares/
+
 let wordSquares = function (words) {
   if (!words || words.length === 0 || words[0].length === 0) return [];
   let N = words[0].length;

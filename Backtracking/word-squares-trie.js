@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/word-squares/
+
 function TrieNode() {
   this.children = {};
   this.wordList = [];
