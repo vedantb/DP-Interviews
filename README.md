@@ -174,3 +174,31 @@ The difference between permutations 1 and 2 is that 1 has unique numbers in the 
 12. [Word-Squares - Using Hashmap](./Backtracking/word-squares-hashmap.js)
 
     [Word-Squares - Using Tries](./Backtracking/word-squares-trie.js)
+
+13. [Restore IP Addresses](./Backtracking/restore-ip-addresses.js)
+
+14. [Path Sum 2](./Backtracking/path-sum-2.js)
+
+15. [Gray Code](./Backtracking/gray-code.js)
+
+#### Similar Problems But slightly different
+
+1. [Subsets 1 and 2](./Backtracking/Category1/subsets.js)
+
+2. [Permutations 1 and 2](./Backtracking/Category1/permutations.js)
+
+3. [Combination Sum 1, 2 and 3](./Backtracking/Category1/combinationsums.js)
+
+4. [Palindrome Permutations](./Backtracking/Category1/palindrome-permutations.js)
+
+   A few neat optimizationz are done in this solution.
+
+   1. We check if we can even compute a palindrome from the given string. If not we immediately return.
+
+   2. If it's an odd length palindrome, we get the mid point character (1 character which only appears once)
+
+   3. We just take half of the remaining characters and compute all permutations on just half the list. When
+      we have a complete permutation we do `permutation + mid + permutation.reverse()`. This allows us to
+      calculate all possible permutations on just half the string instead of the entire string.
+
+      For even length palindromes mid will be empty so it will essentailly be `permutation + permutation.reverse()`
