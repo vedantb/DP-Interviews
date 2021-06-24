@@ -181,6 +181,10 @@ The difference between permutations 1 and 2 is that 1 has unique numbers in the 
 
 15. [Gray Code](./Backtracking/gray-code.js)
 
+16. [Factor Combinations](./Backtracking/factor-combinations.js)
+
+17. [Robot Room Cleaner](./Backtracking/robot-room-cleaner.js)
+
 #### Similar Problems But slightly different
 
 1. [Subsets 1 and 2](./Backtracking/Category1/subsets.js)
